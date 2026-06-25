@@ -1,0 +1,3190 @@
+{
+    "href": "https://api.spotify.com/v1/playlists/0MlN14l757HXhuQwIANj53/items?offset=0&limit=50",
+    "items": [
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "album",
+                    "href": "https://api.spotify.com/v1/albums/1XORY4rQNhqkZxTze6Px90",
+                    "id": "1XORY4rQNhqkZxTze6Px90",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273bf4b533ee6e9634a6fcd8882",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02bf4b533ee6e9634a6fcd8882",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851bf4b533ee6e9634a6fcd8882",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Piano Book (Deluxe Edition)",
+                    "release_date": "2019-03-29",
+                    "release_date_precision": "day",
+                    "uri": "spotify:album:1XORY4rQNhqkZxTze6Px90",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1YZhNFBxkEB5UKTgMDvot4",
+                            "id": "1YZhNFBxkEB5UKTgMDvot4",
+                            "name": "Lang Lang",
+                            "type": "artist",
+                            "uri": "spotify:artist:1YZhNFBxkEB5UKTgMDvot4"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+                            "id": "5aIqB5nVVvmFsvSdExz408",
+                            "name": "Johann Sebastian Bach",
+                            "type": "artist",
+                            "uri": "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2wOqMjp9TyABvtHdOSOTUS",
+                            "id": "2wOqMjp9TyABvtHdOSOTUS",
+                            "name": "Ludwig van Beethoven",
+                            "type": "artist",
+                            "uri": "spotify:artist:2wOqMjp9TyABvtHdOSOTUS"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1Uff91EOsvd99rtAupatMP",
+                            "id": "1Uff91EOsvd99rtAupatMP",
+                            "name": "Claude Debussy",
+                            "type": "artist",
+                            "uri": "spotify:artist:1Uff91EOsvd99rtAupatMP"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7y97mc3bZRFXzT2szRM4L4",
+                            "id": "7y97mc3bZRFXzT2szRM4L4",
+                            "name": "Frédéric Chopin",
+                            "type": "artist",
+                            "uri": "spotify:artist:7y97mc3bZRFXzT2szRM4L4"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4NJhFmfw43RLBLjQvxDuRS",
+                            "id": "4NJhFmfw43RLBLjQvxDuRS",
+                            "name": "Wolfgang Amadeus Mozart",
+                            "type": "artist",
+                            "uri": "spotify:artist:4NJhFmfw43RLBLjQvxDuRS"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+                    },
+                    "total_tracks": 41
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+                        "id": "5aIqB5nVVvmFsvSdExz408",
+                        "name": "Johann Sebastian Bach",
+                        "type": "artist",
+                        "uri": "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1YZhNFBxkEB5UKTgMDvot4",
+                        "id": "1YZhNFBxkEB5UKTgMDvot4",
+                        "name": "Lang Lang",
+                        "type": "artist",
+                        "uri": "spotify:artist:1YZhNFBxkEB5UKTgMDvot4"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 1,
+                "duration_ms": 139306,
+                "external_ids": {
+                    "isrc": "DEN961801790"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4SFBV7SRNG2e2kyL1F6kjU"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4SFBV7SRNG2e2kyL1F6kjU",
+                "id": "4SFBV7SRNG2e2kyL1F6kjU",
+                "name": "The Well-Tempered Clavier I, Prelude & Fugue No. 1 in C Major, BWV 846: I. Prelude",
+                "uri": "spotify:track:4SFBV7SRNG2e2kyL1F6kjU",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "album",
+                    "href": "https://api.spotify.com/v1/albums/3cvjMNWg7t46NyDZzujfNg",
+                    "id": "3cvjMNWg7t46NyDZzujfNg",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273cbb64bd416bb225456100bbc",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02cbb64bd416bb225456100bbc",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851cbb64bd416bb225456100bbc",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Bach: Cello Suites Nos. 1, 5 & 6",
+                    "release_date": "1983",
+                    "release_date_precision": "year",
+                    "uri": "spotify:album:3cvjMNWg7t46NyDZzujfNg",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+                            "id": "5aIqB5nVVvmFsvSdExz408",
+                            "name": "Johann Sebastian Bach",
+                            "type": "artist",
+                            "uri": "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5Dl3HXZjG6ZOWT5cV375lk",
+                            "id": "5Dl3HXZjG6ZOWT5cV375lk",
+                            "name": "Yo-Yo Ma",
+                            "type": "artist",
+                            "uri": "spotify:artist:5Dl3HXZjG6ZOWT5cV375lk"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3cvjMNWg7t46NyDZzujfNg"
+                    },
+                    "total_tracks": 18
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+                        "id": "5aIqB5nVVvmFsvSdExz408",
+                        "name": "Johann Sebastian Bach",
+                        "type": "artist",
+                        "uri": "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5Dl3HXZjG6ZOWT5cV375lk",
+                        "id": "5Dl3HXZjG6ZOWT5cV375lk",
+                        "name": "Yo-Yo Ma",
+                        "type": "artist",
+                        "uri": "spotify:artist:5Dl3HXZjG6ZOWT5cV375lk"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 1,
+                "duration_ms": 152280,
+                "external_ids": {
+                    "isrc": "USSM18200515"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/17i5jLpzndlQhbS4SrTd0B"
+                },
+                "href": "https://api.spotify.com/v1/tracks/17i5jLpzndlQhbS4SrTd0B",
+                "id": "17i5jLpzndlQhbS4SrTd0B",
+                "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Prélude",
+                "uri": "spotify:track:17i5jLpzndlQhbS4SrTd0B",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "single",
+                    "href": "https://api.spotify.com/v1/albums/230jpjk9w7MGupNMMvXoaN",
+                    "id": "230jpjk9w7MGupNMMvXoaN",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27399f253ebd86fb26803542dd9",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0299f253ebd86fb26803542dd9",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485199f253ebd86fb26803542dd9",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Für Elise, Bagatelle No. 25 in A Minor, WoO 59",
+                    "release_date": "2015",
+                    "release_date_precision": "year",
+                    "uri": "spotify:album:230jpjk9w7MGupNMMvXoaN",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2wOqMjp9TyABvtHdOSOTUS",
+                            "id": "2wOqMjp9TyABvtHdOSOTUS",
+                            "name": "Ludwig van Beethoven",
+                            "type": "artist",
+                            "uri": "spotify:artist:2wOqMjp9TyABvtHdOSOTUS"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0japPUWMmW3gxqjSB1VEVL",
+                            "id": "0japPUWMmW3gxqjSB1VEVL",
+                            "name": "Igor Levit",
+                            "type": "artist",
+                            "uri": "spotify:artist:0japPUWMmW3gxqjSB1VEVL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/230jpjk9w7MGupNMMvXoaN"
+                    },
+                    "total_tracks": 1
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2wOqMjp9TyABvtHdOSOTUS",
+                        "id": "2wOqMjp9TyABvtHdOSOTUS",
+                        "name": "Ludwig van Beethoven",
+                        "type": "artist",
+                        "uri": "spotify:artist:2wOqMjp9TyABvtHdOSOTUS"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0japPUWMmW3gxqjSB1VEVL",
+                        "id": "0japPUWMmW3gxqjSB1VEVL",
+                        "name": "Igor Levit",
+                        "type": "artist",
+                        "uri": "spotify:artist:0japPUWMmW3gxqjSB1VEVL"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 1,
+                "duration_ms": 214086,
+                "external_ids": {
+                    "isrc": "USSM11508271"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3zLTPuucd3e6TxZnu2dlVS"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3zLTPuucd3e6TxZnu2dlVS",
+                "id": "3zLTPuucd3e6TxZnu2dlVS",
+                "name": "Bagatelle No. 25 in A Minor, WoO 59 \"Für Elise\"",
+                "uri": "spotify:track:3zLTPuucd3e6TxZnu2dlVS",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "album",
+                    "href": "https://api.spotify.com/v1/albums/2y85NsbsBnGTXcXgHpj3PD",
+                    "id": "2y85NsbsBnGTXcXgHpj3PD",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27334bd045ff6189c2a861a1e30",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0234bd045ff6189c2a861a1e30",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485134bd045ff6189c2a861a1e30",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Songs from the Arc of Life",
+                    "release_date": "2015-09-18",
+                    "release_date_precision": "day",
+                    "uri": "spotify:album:2y85NsbsBnGTXcXgHpj3PD",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5Dl3HXZjG6ZOWT5cV375lk",
+                            "id": "5Dl3HXZjG6ZOWT5cV375lk",
+                            "name": "Yo-Yo Ma",
+                            "type": "artist",
+                            "uri": "spotify:artist:5Dl3HXZjG6ZOWT5cV375lk"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7JmDqds7Y1LRSWZVM8e0Og",
+                            "id": "7JmDqds7Y1LRSWZVM8e0Og",
+                            "name": "Kathryn Stott",
+                            "type": "artist",
+                            "uri": "spotify:artist:7JmDqds7Y1LRSWZVM8e0Og"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD"
+                    },
+                    "total_tracks": 19
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/436sYg6CZhNefQJogaXeK0",
+                        "id": "436sYg6CZhNefQJogaXeK0",
+                        "name": "Camille Saint-Saëns",
+                        "type": "artist",
+                        "uri": "spotify:artist:436sYg6CZhNefQJogaXeK0"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5Dl3HXZjG6ZOWT5cV375lk",
+                        "id": "5Dl3HXZjG6ZOWT5cV375lk",
+                        "name": "Yo-Yo Ma",
+                        "type": "artist",
+                        "uri": "spotify:artist:5Dl3HXZjG6ZOWT5cV375lk"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7JmDqds7Y1LRSWZVM8e0Og",
+                        "id": "7JmDqds7Y1LRSWZVM8e0Og",
+                        "name": "Kathryn Stott",
+                        "type": "artist",
+                        "uri": "spotify:artist:7JmDqds7Y1LRSWZVM8e0Og"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 14,
+                "duration_ms": 174266,
+                "external_ids": {
+                    "isrc": "USQX91500824"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0jOnZhF75V68VsBObWx2XO"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0jOnZhF75V68VsBObWx2XO",
+                "id": "0jOnZhF75V68VsBObWx2XO",
+                "name": "The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano)",
+                "uri": "spotify:track:0jOnZhF75V68VsBObWx2XO",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "album",
+                    "href": "https://api.spotify.com/v1/albums/7AETI3SIYGsGQP2PsRdBtl",
+                    "id": "7AETI3SIYGsGQP2PsRdBtl",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273d90353975ad1e31daf54a500",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02d90353975ad1e31daf54a500",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851d90353975ad1e31daf54a500",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Karajan A-Z: Adam - Bartók",
+                    "release_date": "2024-09-27",
+                    "release_date_precision": "day",
+                    "uri": "spotify:album:7AETI3SIYGsGQP2PsRdBtl",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+                            "id": "5aIqB5nVVvmFsvSdExz408",
+                            "name": "Johann Sebastian Bach",
+                            "type": "artist",
+                            "uri": "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5zCaQxjl110XTrm4LQ1CxY",
+                            "id": "5zCaQxjl110XTrm4LQ1CxY",
+                            "name": "Herbert von Karajan",
+                            "type": "artist",
+                            "uri": "spotify:artist:5zCaQxjl110XTrm4LQ1CxY"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/71VUVLmoTKKYfIugkavMeS"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/71VUVLmoTKKYfIugkavMeS",
+                            "id": "71VUVLmoTKKYfIugkavMeS",
+                            "name": "Adolphe Adam",
+                            "type": "artist",
+                            "uri": "spotify:artist:71VUVLmoTKKYfIugkavMeS"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+                            "id": "5zyNXVd952fWOjkdGHCvPd",
+                            "name": "Béla Bartók",
+                            "type": "artist",
+                            "uri": "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/7AETI3SIYGsGQP2PsRdBtl"
+                    },
+                    "total_tracks": 199
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+                        "id": "5aIqB5nVVvmFsvSdExz408",
+                        "name": "Johann Sebastian Bach",
+                        "type": "artist",
+                        "uri": "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/29BEmD7wvKp6F5GTCcejY3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/29BEmD7wvKp6F5GTCcejY3",
+                        "id": "29BEmD7wvKp6F5GTCcejY3",
+                        "name": "David Bell",
+                        "type": "artist",
+                        "uri": "spotify:artist:29BEmD7wvKp6F5GTCcejY3"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6uRJnvQ3f8whVnmeoecv5Z",
+                        "id": "6uRJnvQ3f8whVnmeoecv5Z",
+                        "name": "Berliner Philharmoniker",
+                        "type": "artist",
+                        "uri": "spotify:artist:6uRJnvQ3f8whVnmeoecv5Z"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5zCaQxjl110XTrm4LQ1CxY",
+                        "id": "5zCaQxjl110XTrm4LQ1CxY",
+                        "name": "Herbert von Karajan",
+                        "type": "artist",
+                        "uri": "spotify:artist:5zCaQxjl110XTrm4LQ1CxY"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 32,
+                "duration_ms": 360493,
+                "external_ids": {
+                    "isrc": "DEF058300600"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6pt8oGfiwgidz03nGw1zTb"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6pt8oGfiwgidz03nGw1zTb",
+                "id": "6pt8oGfiwgidz03nGw1zTb",
+                "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air \"on the G String\"",
+                "uri": "spotify:track:6pt8oGfiwgidz03nGw1zTb",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "compilation",
+                    "href": "https://api.spotify.com/v1/albums/657D9POYWMrDMK9MWNxPHL",
+                    "id": "657D9POYWMrDMK9MWNxPHL",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273d402a56a6ea55af4119c2c89",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02d402a56a6ea55af4119c2c89",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851d402a56a6ea55af4119c2c89",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Handel Sarabande",
+                    "release_date": "2008-11-28",
+                    "release_date_precision": "day",
+                    "uri": "spotify:album:657D9POYWMrDMK9MWNxPHL",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1QL7yTHrdahRMpvNtn6rI2",
+                            "id": "1QL7yTHrdahRMpvNtn6rI2",
+                            "name": "George Frideric Handel",
+                            "type": "artist",
+                            "uri": "spotify:artist:1QL7yTHrdahRMpvNtn6rI2"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4k6vjls0qYrLUu2Wvo9pcZ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4k6vjls0qYrLUu2Wvo9pcZ",
+                            "id": "4k6vjls0qYrLUu2Wvo9pcZ",
+                            "name": "Yehudi Menuhin, Menuhin Festival Orchestra",
+                            "type": "artist",
+                            "uri": "spotify:artist:4k6vjls0qYrLUu2Wvo9pcZ"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/72G9EzMv6GG9N4szGhR2Ta"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/72G9EzMv6GG9N4szGhR2Ta",
+                            "id": "72G9EzMv6GG9N4szGhR2Ta",
+                            "name": "Menuhin Festival Orchestra",
+                            "type": "artist",
+                            "uri": "spotify:artist:72G9EzMv6GG9N4szGhR2Ta"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/657D9POYWMrDMK9MWNxPHL"
+                    },
+                    "total_tracks": 22
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1QL7yTHrdahRMpvNtn6rI2",
+                        "id": "1QL7yTHrdahRMpvNtn6rI2",
+                        "name": "George Frideric Handel",
+                        "type": "artist",
+                        "uri": "spotify:artist:1QL7yTHrdahRMpvNtn6rI2"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6bk0YPhJSL44WBtoGe4GI6"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6bk0YPhJSL44WBtoGe4GI6",
+                        "id": "6bk0YPhJSL44WBtoGe4GI6",
+                        "name": "Alexander Briger",
+                        "type": "artist",
+                        "uri": "spotify:artist:6bk0YPhJSL44WBtoGe4GI6"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/77CaCn32H4mOMQA7UElzfF",
+                        "id": "77CaCn32H4mOMQA7UElzfF",
+                        "name": "Academy of St. Martin in the Fields",
+                        "type": "artist",
+                        "uri": "spotify:artist:77CaCn32H4mOMQA7UElzfF"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 1,
+                "duration_ms": 207266,
+                "external_ids": {
+                    "isrc": "GBAYC0201575"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1upQiytDIEZfl9ItruoXuC"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1upQiytDIEZfl9ItruoXuC",
+                "id": "1upQiytDIEZfl9ItruoXuC",
+                "name": "Handel / Orch. Hale: Keyboard Suite No. 4 in D Minor, HWV 437: III. Sarabande",
+                "uri": "spotify:track:1upQiytDIEZfl9ItruoXuC",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "single",
+                    "href": "https://api.spotify.com/v1/albums/6c3t7n2DcojfdHIFXwhDwa",
+                    "id": "6c3t7n2DcojfdHIFXwhDwa",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2737a417c056bbffac1b04c166d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e027a417c056bbffac1b04c166d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048517a417c056bbffac1b04c166d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Pachelbel: Canon in D Major",
+                    "release_date": "2023-11-03",
+                    "release_date_precision": "day",
+                    "uri": "spotify:album:6c3t7n2DcojfdHIFXwhDwa",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/62TD7509VQIxUe4WpwO0s3",
+                            "id": "62TD7509VQIxUe4WpwO0s3",
+                            "name": "Johann Pachelbel",
+                            "type": "artist",
+                            "uri": "spotify:artist:62TD7509VQIxUe4WpwO0s3"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6NUhQz7eAEsZvjEHTKHux9",
+                            "id": "6NUhQz7eAEsZvjEHTKHux9",
+                            "name": "Sir Neville Marriner",
+                            "type": "artist",
+                            "uri": "spotify:artist:6NUhQz7eAEsZvjEHTKHux9"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/77CaCn32H4mOMQA7UElzfF",
+                            "id": "77CaCn32H4mOMQA7UElzfF",
+                            "name": "Academy of St. Martin in the Fields",
+                            "type": "artist",
+                            "uri": "spotify:artist:77CaCn32H4mOMQA7UElzfF"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6c3t7n2DcojfdHIFXwhDwa"
+                    },
+                    "total_tracks": 1
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/62TD7509VQIxUe4WpwO0s3",
+                        "id": "62TD7509VQIxUe4WpwO0s3",
+                        "name": "Johann Pachelbel",
+                        "type": "artist",
+                        "uri": "spotify:artist:62TD7509VQIxUe4WpwO0s3"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6NUhQz7eAEsZvjEHTKHux9",
+                        "id": "6NUhQz7eAEsZvjEHTKHux9",
+                        "name": "Sir Neville Marriner",
+                        "type": "artist",
+                        "uri": "spotify:artist:6NUhQz7eAEsZvjEHTKHux9"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/77CaCn32H4mOMQA7UElzfF",
+                        "id": "77CaCn32H4mOMQA7UElzfF",
+                        "name": "Academy of St. Martin in the Fields",
+                        "type": "artist",
+                        "uri": "spotify:artist:77CaCn32H4mOMQA7UElzfF"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 1,
+                "duration_ms": 300613,
+                "external_ids": {
+                    "isrc": "GBAYC8804957"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/712Pm7DCa8lL8dGZ7LdXQS"
+                },
+                "href": "https://api.spotify.com/v1/tracks/712Pm7DCa8lL8dGZ7LdXQS",
+                "id": "712Pm7DCa8lL8dGZ7LdXQS",
+                "name": "Pachelbel: Canon and Gigue in D Major: Canon",
+                "uri": "spotify:track:712Pm7DCa8lL8dGZ7LdXQS",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "album",
+                    "href": "https://api.spotify.com/v1/albums/1EICPBWv4fDj3sy3vn6p0y",
+                    "id": "1EICPBWv4fDj3sy3vn6p0y",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273ef91345d4eccc0d07cd588c0",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02ef91345d4eccc0d07cd588c0",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851ef91345d4eccc0d07cd588c0",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Quirk",
+                    "release_date": "2008",
+                    "release_date_precision": "year",
+                    "uri": "spotify:album:1EICPBWv4fDj3sy3vn6p0y",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1q1wfzh2xtpj27TnIAqIvd",
+                            "id": "1q1wfzh2xtpj27TnIAqIvd",
+                            "name": "Karl Jenkins",
+                            "type": "artist",
+                            "uri": "spotify:artist:1q1wfzh2xtpj27TnIAqIvd"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+                            "id": "5yxyJsFanEAuwSM5kOuZKc",
+                            "name": "London Symphony Orchestra",
+                            "type": "artist",
+                            "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1EICPBWv4fDj3sy3vn6p0y"
+                    },
+                    "total_tracks": 14
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1q1wfzh2xtpj27TnIAqIvd",
+                        "id": "1q1wfzh2xtpj27TnIAqIvd",
+                        "name": "Karl Jenkins",
+                        "type": "artist",
+                        "uri": "spotify:artist:1q1wfzh2xtpj27TnIAqIvd"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2tPBV5n7Vdj6bVFFVIYhG6"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2tPBV5n7Vdj6bVFFVIYhG6",
+                        "id": "2tPBV5n7Vdj6bVFFVIYhG6",
+                        "name": "Carmine Lauri",
+                        "type": "artist",
+                        "uri": "spotify:artist:2tPBV5n7Vdj6bVFFVIYhG6"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2NTfYFvgxsHKYf2IdHunXA"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2NTfYFvgxsHKYf2IdHunXA",
+                        "id": "2NTfYFvgxsHKYf2IdHunXA",
+                        "name": "David Alberman",
+                        "type": "artist",
+                        "uri": "spotify:artist:2NTfYFvgxsHKYf2IdHunXA"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+                        "id": "5yxyJsFanEAuwSM5kOuZKc",
+                        "name": "London Symphony Orchestra",
+                        "type": "artist",
+                        "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 14,
+                "duration_ms": 226880,
+                "external_ids": {
+                    "isrc": "GBPFW0800554"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4FycxLfl7H5CQnqw9J6LXZ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4FycxLfl7H5CQnqw9J6LXZ",
+                "id": "4FycxLfl7H5CQnqw9J6LXZ",
+                "name": "Palladio: I. Allegretto",
+                "uri": "spotify:track:4FycxLfl7H5CQnqw9J6LXZ",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "single",
+                    "href": "https://api.spotify.com/v1/albums/4Ll3RGpn0eVY6MMKPTP99C",
+                    "id": "4Ll3RGpn0eVY6MMKPTP99C",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2731277085743389aa91af6f39b",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e021277085743389aa91af6f39b",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048511277085743389aa91af6f39b",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Debussy: Suite bergamasque, L. 75, 3. Clair de lune",
+                    "release_date": "2018-07-27",
+                    "release_date_precision": "day",
+                    "uri": "spotify:album:4Ll3RGpn0eVY6MMKPTP99C",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1Uff91EOsvd99rtAupatMP",
+                            "id": "1Uff91EOsvd99rtAupatMP",
+                            "name": "Claude Debussy",
+                            "type": "artist",
+                            "uri": "spotify:artist:1Uff91EOsvd99rtAupatMP"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0d6alfZHUx3xoRnPjkTL7Q",
+                            "id": "0d6alfZHUx3xoRnPjkTL7Q",
+                            "name": "Alice Sara Ott",
+                            "type": "artist",
+                            "uri": "spotify:artist:0d6alfZHUx3xoRnPjkTL7Q"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4Ll3RGpn0eVY6MMKPTP99C"
+                    },
+                    "total_tracks": 1
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1Uff91EOsvd99rtAupatMP",
+                        "id": "1Uff91EOsvd99rtAupatMP",
+                        "name": "Claude Debussy",
+                        "type": "artist",
+                        "uri": "spotify:artist:1Uff91EOsvd99rtAupatMP"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0d6alfZHUx3xoRnPjkTL7Q",
+                        "id": "0d6alfZHUx3xoRnPjkTL7Q",
+                        "name": "Alice Sara Ott",
+                        "type": "artist",
+                        "uri": "spotify:artist:0d6alfZHUx3xoRnPjkTL7Q"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 1,
+                "duration_ms": 294960,
+                "external_ids": {
+                    "isrc": "DEN961800253"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1cmigB9I6IRpFqjIbzvSQB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1cmigB9I6IRpFqjIbzvSQB",
+                "id": "1cmigB9I6IRpFqjIbzvSQB",
+                "name": "Suite bergamasque, L. 75: III. Clair de lune",
+                "uri": "spotify:track:1cmigB9I6IRpFqjIbzvSQB",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "album",
+                    "href": "https://api.spotify.com/v1/albums/7dVA06E7AP7P7VzPyNxQVO",
+                    "id": "7dVA06E7AP7P7VzPyNxQVO",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e021d9c6602aa95abd8c5b146da",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048511d9c6602aa95abd8c5b146da",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Tchaikovsky: Swan Lake",
+                    "release_date": "1976-01-01",
+                    "release_date_precision": "day",
+                    "uri": "spotify:album:7dVA06E7AP7P7VzPyNxQVO",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3MKCzCnpzw3TjUYs2v7vDA",
+                            "id": "3MKCzCnpzw3TjUYs2v7vDA",
+                            "name": "Pyotr Ilyich Tchaikovsky",
+                            "type": "artist",
+                            "uri": "spotify:artist:3MKCzCnpzw3TjUYs2v7vDA"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2tfWguHr2nj4e8KXLKciVq",
+                            "id": "2tfWguHr2nj4e8KXLKciVq",
+                            "name": "André Previn",
+                            "type": "artist",
+                            "uri": "spotify:artist:2tfWguHr2nj4e8KXLKciVq"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+                            "id": "5yxyJsFanEAuwSM5kOuZKc",
+                            "name": "London Symphony Orchestra",
+                            "type": "artist",
+                            "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO"
+                    },
+                    "total_tracks": 31
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3MKCzCnpzw3TjUYs2v7vDA",
+                        "id": "3MKCzCnpzw3TjUYs2v7vDA",
+                        "name": "Pyotr Ilyich Tchaikovsky",
+                        "type": "artist",
+                        "uri": "spotify:artist:3MKCzCnpzw3TjUYs2v7vDA"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2tfWguHr2nj4e8KXLKciVq",
+                        "id": "2tfWguHr2nj4e8KXLKciVq",
+                        "name": "André Previn",
+                        "type": "artist",
+                        "uri": "spotify:artist:2tfWguHr2nj4e8KXLKciVq"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+                        "id": "5yxyJsFanEAuwSM5kOuZKc",
+                        "name": "London Symphony Orchestra",
+                        "type": "artist",
+                        "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 10,
+                "duration_ms": 166866,
+                "external_ids": {
+                    "isrc": "GBAYC0702145"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2xizRhme7pYeITbH1NLLGt",
+                "id": "2xizRhme7pYeITbH1NLLGt",
+                "name": "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato",
+                "uri": "spotify:track:2xizRhme7pYeITbH1NLLGt",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "compilation",
+                    "href": "https://api.spotify.com/v1/albums/72eREPpDWnlR5o2hUExugS",
+                    "id": "72eREPpDWnlR5o2hUExugS",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b4c5f2cf772acba4844256c6",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b4c5f2cf772acba4844256c6",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b4c5f2cf772acba4844256c6",
+                            "width": 64
+                        }
+                    ],
+                    "name": "I don't like classical music, but I really like this!",
+                    "release_date": "2014-06-13",
+                    "release_date_precision": "day",
+                    "uri": "spotify:album:72eREPpDWnlR5o2hUExugS",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                            "id": "0LyfQWJT6nXafLPZqxe9Of",
+                            "name": "Various Artists",
+                            "type": "artist",
+                            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/72eREPpDWnlR5o2hUExugS"
+                    },
+                    "total_tracks": 45
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4OihBPCQzR4GfbzqOY69Xm"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4OihBPCQzR4GfbzqOY69Xm",
+                        "id": "4OihBPCQzR4GfbzqOY69Xm",
+                        "name": "Jacques Offenbach",
+                        "type": "artist",
+                        "uri": "spotify:artist:4OihBPCQzR4GfbzqOY69Xm"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2JQBcP1ceEAdwHM6cvSCv8",
+                        "id": "2JQBcP1ceEAdwHM6cvSCv8",
+                        "name": "Arthur Fiedler",
+                        "type": "artist",
+                        "uri": "spotify:artist:2JQBcP1ceEAdwHM6cvSCv8"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7CIcEIOiWaZcEH35cpsdZq",
+                        "id": "7CIcEIOiWaZcEH35cpsdZq",
+                        "name": "Boston Pops Orchestra",
+                        "type": "artist",
+                        "uri": "spotify:artist:7CIcEIOiWaZcEH35cpsdZq"
+                    }
+                ],
+                "disc_number": 2,
+                "track_number": 11,
+                "duration_ms": 215240,
+                "external_ids": {
+                    "isrc": "USBC15600108"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1n9741DApqn5gvuxhgerCt"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1n9741DApqn5gvuxhgerCt",
+                "id": "1n9741DApqn5gvuxhgerCt",
+                "name": "Tales of Hoffmann: Barcarolle",
+                "uri": "spotify:track:1n9741DApqn5gvuxhgerCt",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "album",
+                    "href": "https://api.spotify.com/v1/albums/4Sjm2tyEUTP7wfhOFaf4C8",
+                    "id": "4Sjm2tyEUTP7wfhOFaf4C8",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273d406011db82da599faa764e8",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02d406011db82da599faa764e8",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851d406011db82da599faa764e8",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Szymanowski: Violin Concerto No.1",
+                    "release_date": "2005-01-01",
+                    "release_date_precision": "day",
+                    "uri": "spotify:album:4Sjm2tyEUTP7wfhOFaf4C8",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/02B3Os1lCLuWR6klPJiQpW",
+                            "id": "02B3Os1lCLuWR6klPJiQpW",
+                            "name": "Nicola Benedetti",
+                            "type": "artist",
+                            "uri": "spotify:artist:02B3Os1lCLuWR6klPJiQpW"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4Sjm2tyEUTP7wfhOFaf4C8"
+                    },
+                    "total_tracks": 9
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1AoIc5YFH0aSFc4mKqBEeB",
+                        "id": "1AoIc5YFH0aSFc4mKqBEeB",
+                        "name": "Jules Massenet",
+                        "type": "artist",
+                        "uri": "spotify:artist:1AoIc5YFH0aSFc4mKqBEeB"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/02B3Os1lCLuWR6klPJiQpW",
+                        "id": "02B3Os1lCLuWR6klPJiQpW",
+                        "name": "Nicola Benedetti",
+                        "type": "artist",
+                        "uri": "spotify:artist:02B3Os1lCLuWR6klPJiQpW"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+                        "id": "5yxyJsFanEAuwSM5kOuZKc",
+                        "name": "London Symphony Orchestra",
+                        "type": "artist",
+                        "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3sjupE75AphhTX12fgkQv6",
+                        "id": "3sjupE75AphhTX12fgkQv6",
+                        "name": "Daniel Harding",
+                        "type": "artist",
+                        "uri": "spotify:artist:3sjupE75AphhTX12fgkQv6"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 6,
+                "duration_ms": 331933,
+                "external_ids": {
+                    "isrc": "GBEKZ0500009"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7pgJTa3eZM4kkT2vsZUmFt"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7pgJTa3eZM4kkT2vsZUmFt",
+                "id": "7pgJTa3eZM4kkT2vsZUmFt",
+                "name": "Méditation from Thaïs",
+                "uri": "spotify:track:7pgJTa3eZM4kkT2vsZUmFt",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "single",
+                    "href": "https://api.spotify.com/v1/albums/4ZWDD7tNRRMB2eO4B5LsJh",
+                    "id": "4ZWDD7tNRRMB2eO4B5LsJh",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273af15200ccc50a7a344288cab",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02af15200ccc50a7a344288cab",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851af15200ccc50a7a344288cab",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Gnossienne No. 1",
+                    "release_date": "2013",
+                    "release_date_precision": "year",
+                    "uri": "spotify:album:4ZWDD7tNRRMB2eO4B5LsJh",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/459INk8vcC0ebEef82WjIK",
+                            "id": "459INk8vcC0ebEef82WjIK",
+                            "name": "Erik Satie",
+                            "type": "artist",
+                            "uri": "spotify:artist:459INk8vcC0ebEef82WjIK"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5kgAnLGI2biBHvY7hDsF7P"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5kgAnLGI2biBHvY7hDsF7P",
+                            "id": "5kgAnLGI2biBHvY7hDsF7P",
+                            "name": "Alena Cherny",
+                            "type": "artist",
+                            "uri": "spotify:artist:5kgAnLGI2biBHvY7hDsF7P"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4ZWDD7tNRRMB2eO4B5LsJh"
+                    },
+                    "total_tracks": 1
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/459INk8vcC0ebEef82WjIK",
+                        "id": "459INk8vcC0ebEef82WjIK",
+                        "name": "Erik Satie",
+                        "type": "artist",
+                        "uri": "spotify:artist:459INk8vcC0ebEef82WjIK"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5kgAnLGI2biBHvY7hDsF7P"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5kgAnLGI2biBHvY7hDsF7P",
+                        "id": "5kgAnLGI2biBHvY7hDsF7P",
+                        "name": "Alena Cherny",
+                        "type": "artist",
+                        "uri": "spotify:artist:5kgAnLGI2biBHvY7hDsF7P"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 1,
+                "duration_ms": 296590,
+                "external_ids": {
+                    "isrc": "CH0011300110"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5fdp9rXfEixCGLM1Og4EN1",
+                "id": "5fdp9rXfEixCGLM1Og4EN1",
+                "name": "Gnossienne No. 1",
+                "uri": "spotify:track:5fdp9rXfEixCGLM1Og4EN1",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "album",
+                    "href": "https://api.spotify.com/v1/albums/4Hq6U8NMSqCCXKIxTtO2uX",
+                    "id": "4Hq6U8NMSqCCXKIxTtO2uX",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2739d195578902b629436fd2353",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e029d195578902b629436fd2353",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048519d195578902b629436fd2353",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Strauss, J.: An der schönen blauen Donau (The Blue Danube)",
+                    "release_date": "1982-01-01",
+                    "release_date_precision": "day",
+                    "uri": "spotify:album:4Hq6U8NMSqCCXKIxTtO2uX",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5goS0v24Fc1ydjCKQRwtjM",
+                            "id": "5goS0v24Fc1ydjCKQRwtjM",
+                            "name": "Johann Strauss II",
+                            "type": "artist",
+                            "uri": "spotify:artist:5goS0v24Fc1ydjCKQRwtjM"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6uRJnvQ3f8whVnmeoecv5Z",
+                            "id": "6uRJnvQ3f8whVnmeoecv5Z",
+                            "name": "Berliner Philharmoniker",
+                            "type": "artist",
+                            "uri": "spotify:artist:6uRJnvQ3f8whVnmeoecv5Z"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5zCaQxjl110XTrm4LQ1CxY",
+                            "id": "5zCaQxjl110XTrm4LQ1CxY",
+                            "name": "Herbert von Karajan",
+                            "type": "artist",
+                            "uri": "spotify:artist:5zCaQxjl110XTrm4LQ1CxY"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4Hq6U8NMSqCCXKIxTtO2uX"
+                    },
+                    "total_tracks": 8
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5goS0v24Fc1ydjCKQRwtjM",
+                        "id": "5goS0v24Fc1ydjCKQRwtjM",
+                        "name": "Johann Strauss II",
+                        "type": "artist",
+                        "uri": "spotify:artist:5goS0v24Fc1ydjCKQRwtjM"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6uRJnvQ3f8whVnmeoecv5Z",
+                        "id": "6uRJnvQ3f8whVnmeoecv5Z",
+                        "name": "Berliner Philharmoniker",
+                        "type": "artist",
+                        "uri": "spotify:artist:6uRJnvQ3f8whVnmeoecv5Z"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5zCaQxjl110XTrm4LQ1CxY",
+                        "id": "5zCaQxjl110XTrm4LQ1CxY",
+                        "name": "Herbert von Karajan",
+                        "type": "artist",
+                        "uri": "spotify:artist:5zCaQxjl110XTrm4LQ1CxY"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 1,
+                "duration_ms": 707173,
+                "external_ids": {
+                    "isrc": "DEF058001370"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4J0e4gEqaLQlG5EM0wws1K"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4J0e4gEqaLQlG5EM0wws1K",
+                "id": "4J0e4gEqaLQlG5EM0wws1K",
+                "name": "An der schönen blauen Donau, Waltz, Op. 314",
+                "uri": "spotify:track:4J0e4gEqaLQlG5EM0wws1K",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "album",
+                    "href": "https://api.spotify.com/v1/albums/2xhhbZySK489esUAtrs65j",
+                    "id": "2xhhbZySK489esUAtrs65j",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273783958b7925dd51636a85ca6",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02783958b7925dd51636a85ca6",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851783958b7925dd51636a85ca6",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Mahler: Symphony No. 5",
+                    "release_date": "1998-08-14",
+                    "release_date_precision": "day",
+                    "uri": "spotify:album:2xhhbZySK489esUAtrs65j",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2ANtgfhQkKpsW6EYSDqldz",
+                            "id": "2ANtgfhQkKpsW6EYSDqldz",
+                            "name": "Gustav Mahler",
+                            "type": "artist",
+                            "uri": "spotify:artist:2ANtgfhQkKpsW6EYSDqldz"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/78sEozQOEJxzXegUuqRSgH",
+                            "id": "78sEozQOEJxzXegUuqRSgH",
+                            "name": "Daniel Barenboim",
+                            "type": "artist",
+                            "uri": "spotify:artist:78sEozQOEJxzXegUuqRSgH"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6TD08jYeuN128P2MZTbc8E",
+                            "id": "6TD08jYeuN128P2MZTbc8E",
+                            "name": "Chicago Symphony Orchestra",
+                            "type": "artist",
+                            "uri": "spotify:artist:6TD08jYeuN128P2MZTbc8E"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2xhhbZySK489esUAtrs65j"
+                    },
+                    "total_tracks": 5
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2ANtgfhQkKpsW6EYSDqldz",
+                        "id": "2ANtgfhQkKpsW6EYSDqldz",
+                        "name": "Gustav Mahler",
+                        "type": "artist",
+                        "uri": "spotify:artist:2ANtgfhQkKpsW6EYSDqldz"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/78sEozQOEJxzXegUuqRSgH",
+                        "id": "78sEozQOEJxzXegUuqRSgH",
+                        "name": "Daniel Barenboim",
+                        "type": "artist",
+                        "uri": "spotify:artist:78sEozQOEJxzXegUuqRSgH"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6TD08jYeuN128P2MZTbc8E",
+                        "id": "6TD08jYeuN128P2MZTbc8E",
+                        "name": "Chicago Symphony Orchestra",
+                        "type": "artist",
+                        "uri": "spotify:artist:6TD08jYeuN128P2MZTbc8E"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 4,
+                "duration_ms": 583293,
+                "external_ids": {
+                    "isrc": "DEA809802804"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0cqcRqZgkNHanWQ8slYA0v"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0cqcRqZgkNHanWQ8slYA0v",
+                "id": "0cqcRqZgkNHanWQ8slYA0v",
+                "name": "Mahler: Symphony No. 5 in C-Sharp Minor: IV. Adagietto. Sehr langsam",
+                "uri": "spotify:track:0cqcRqZgkNHanWQ8slYA0v",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "compilation",
+                    "href": "https://api.spotify.com/v1/albums/46X1IgQ1swAVlNeUJeAHwu",
+                    "id": "46X1IgQ1swAVlNeUJeAHwu",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2739ff5f6f0699e74894701c3a9",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e029ff5f6f0699e74894701c3a9",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048519ff5f6f0699e74894701c3a9",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Halloween Music",
+                    "release_date": "2021-10-27",
+                    "release_date_precision": "day",
+                    "uri": "spotify:album:46X1IgQ1swAVlNeUJeAHwu",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/436sYg6CZhNefQJogaXeK0",
+                            "id": "436sYg6CZhNefQJogaXeK0",
+                            "name": "Camille Saint-Saëns",
+                            "type": "artist",
+                            "uri": "spotify:artist:436sYg6CZhNefQJogaXeK0"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/46X1IgQ1swAVlNeUJeAHwu"
+                    },
+                    "total_tracks": 57
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/436sYg6CZhNefQJogaXeK0",
+                        "id": "436sYg6CZhNefQJogaXeK0",
+                        "name": "Camille Saint-Saëns",
+                        "type": "artist",
+                        "uri": "spotify:artist:436sYg6CZhNefQJogaXeK0"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4AcXapei4U7xnWecv9AEBd",
+                        "id": "4AcXapei4U7xnWecv9AEBd",
+                        "name": "Orchestre Symphonique de Montréal",
+                        "type": "artist",
+                        "uri": "spotify:artist:4AcXapei4U7xnWecv9AEBd"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5uzHTiIlBm52CfvHki0BXF"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5uzHTiIlBm52CfvHki0BXF",
+                        "id": "5uzHTiIlBm52CfvHki0BXF",
+                        "name": "Andrew Wan",
+                        "type": "artist",
+                        "uri": "spotify:artist:5uzHTiIlBm52CfvHki0BXF"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3JzgNB1Kzlc17zuSzrC51x",
+                        "id": "3JzgNB1Kzlc17zuSzrC51x",
+                        "name": "Kent Nagano",
+                        "type": "artist",
+                        "uri": "spotify:artist:3JzgNB1Kzlc17zuSzrC51x"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 1,
+                "duration_ms": 442693,
+                "external_ids": {
+                    "isrc": "CA5KV1610005"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5OenUWwcUBDltPyN1Hh40D"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5OenUWwcUBDltPyN1Hh40D",
+                "id": "5OenUWwcUBDltPyN1Hh40D",
+                "name": "Danse Macabre, Op. 40, R.171",
+                "uri": "spotify:track:5OenUWwcUBDltPyN1Hh40D",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "album",
+                    "href": "https://api.spotify.com/v1/albums/2K6XjvDKO2HTCDqGZkph9e",
+                    "id": "2K6XjvDKO2HTCDqGZkph9e",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27326948beddf56658158a4a882",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0226948beddf56658158a4a882",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485126948beddf56658158a4a882",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Aranjuez",
+                    "release_date": "2020-10-02",
+                    "release_date_precision": "day",
+                    "uri": "spotify:album:2K6XjvDKO2HTCDqGZkph9e",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6ZgXLDSjEsWxgYP8MeLS1t"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6ZgXLDSjEsWxgYP8MeLS1t",
+                            "id": "6ZgXLDSjEsWxgYP8MeLS1t",
+                            "name": "Thibaut García",
+                            "type": "artist",
+                            "uri": "spotify:artist:6ZgXLDSjEsWxgYP8MeLS1t"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/52P7S7AfcrT8ZmHaTWqXaQ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/52P7S7AfcrT8ZmHaTWqXaQ",
+                            "id": "52P7S7AfcrT8ZmHaTWqXaQ",
+                            "name": "Ben Glassberg",
+                            "type": "artist",
+                            "uri": "spotify:artist:52P7S7AfcrT8ZmHaTWqXaQ"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/75ehLoOSz7elHefmAk5QWa"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/75ehLoOSz7elHefmAk5QWa",
+                            "id": "75ehLoOSz7elHefmAk5QWa",
+                            "name": "Orchestre National Du Capitole De Toulouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:75ehLoOSz7elHefmAk5QWa"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2K6XjvDKO2HTCDqGZkph9e"
+                    },
+                    "total_tracks": 21
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3eqv9LW7ZXlYWXVFjHS4Mr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3eqv9LW7ZXlYWXVFjHS4Mr",
+                        "id": "3eqv9LW7ZXlYWXVFjHS4Mr",
+                        "name": "Joaquín Rodrigo",
+                        "type": "artist",
+                        "uri": "spotify:artist:3eqv9LW7ZXlYWXVFjHS4Mr"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6ZgXLDSjEsWxgYP8MeLS1t"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6ZgXLDSjEsWxgYP8MeLS1t",
+                        "id": "6ZgXLDSjEsWxgYP8MeLS1t",
+                        "name": "Thibaut García",
+                        "type": "artist",
+                        "uri": "spotify:artist:6ZgXLDSjEsWxgYP8MeLS1t"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/52P7S7AfcrT8ZmHaTWqXaQ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/52P7S7AfcrT8ZmHaTWqXaQ",
+                        "id": "52P7S7AfcrT8ZmHaTWqXaQ",
+                        "name": "Ben Glassberg",
+                        "type": "artist",
+                        "uri": "spotify:artist:52P7S7AfcrT8ZmHaTWqXaQ"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/75ehLoOSz7elHefmAk5QWa"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/75ehLoOSz7elHefmAk5QWa",
+                        "id": "75ehLoOSz7elHefmAk5QWa",
+                        "name": "Orchestre National Du Capitole De Toulouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:75ehLoOSz7elHefmAk5QWa"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 2,
+                "duration_ms": 640266,
+                "external_ids": {
+                    "isrc": "GBAYC2001929"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0k6P9cdEA9K3k0ASde2Kof"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0k6P9cdEA9K3k0ASde2Kof",
+                "id": "0k6P9cdEA9K3k0ASde2Kof",
+                "name": "Rodrigo: Concierto de Aranjuez: II. Adagio",
+                "uri": "spotify:track:0k6P9cdEA9K3k0ASde2Kof",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "album",
+                    "href": "https://api.spotify.com/v1/albums/2TM5vanNqnVzeUovSArNZR",
+                    "id": "2TM5vanNqnVzeUovSArNZR",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735a93228f95e5584f387270e6",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025a93228f95e5584f387270e6",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515a93228f95e5584f387270e6",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Elgar: Enigma Variations & Pomp & Circumstance Marches Nos 1-5",
+                    "release_date": "1986",
+                    "release_date_precision": "year",
+                    "uri": "spotify:album:2TM5vanNqnVzeUovSArNZR",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/430byzy0c5bPn5opiu0SRd",
+                            "id": "430byzy0c5bPn5opiu0SRd",
+                            "name": "Edward Elgar",
+                            "type": "artist",
+                            "uri": "spotify:artist:430byzy0c5bPn5opiu0SRd"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3YjLvhwK5zw7N5S5oX0DVl"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3YjLvhwK5zw7N5S5oX0DVl",
+                            "id": "3YjLvhwK5zw7N5S5oX0DVl",
+                            "name": "Sir Adrian Boult",
+                            "type": "artist",
+                            "uri": "spotify:artist:3YjLvhwK5zw7N5S5oX0DVl"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2TM5vanNqnVzeUovSArNZR"
+                    },
+                    "total_tracks": 20
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/430byzy0c5bPn5opiu0SRd",
+                        "id": "430byzy0c5bPn5opiu0SRd",
+                        "name": "Edward Elgar",
+                        "type": "artist",
+                        "uri": "spotify:artist:430byzy0c5bPn5opiu0SRd"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+                        "id": "5yxyJsFanEAuwSM5kOuZKc",
+                        "name": "London Symphony Orchestra",
+                        "type": "artist",
+                        "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3YjLvhwK5zw7N5S5oX0DVl"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3YjLvhwK5zw7N5S5oX0DVl",
+                        "id": "3YjLvhwK5zw7N5S5oX0DVl",
+                        "name": "Sir Adrian Boult",
+                        "type": "artist",
+                        "uri": "spotify:artist:3YjLvhwK5zw7N5S5oX0DVl"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 10,
+                "duration_ms": 234133,
+                "external_ids": {
+                    "isrc": "GBAYC7000097"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/23ryVoyGTrfO3F0GblIfnz"
+                },
+                "href": "https://api.spotify.com/v1/tracks/23ryVoyGTrfO3F0GblIfnz",
+                "id": "23ryVoyGTrfO3F0GblIfnz",
+                "name": "Elgar: Variations on an Original Theme, Op. 36 \"Enigma\": Variation IX. Nimrod",
+                "uri": "spotify:track:23ryVoyGTrfO3F0GblIfnz",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "album",
+                    "href": "https://api.spotify.com/v1/albums/12TLeKJv0q5fnF2obaf6Is",
+                    "id": "12TLeKJv0q5fnF2obaf6Is",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27324e3c5b5f74c81bc518f82bb",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0224e3c5b5f74c81bc518f82bb",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485124e3c5b5f74c81bc518f82bb",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Liszt",
+                    "release_date": "2011-08-23",
+                    "release_date_precision": "day",
+                    "uri": "spotify:album:12TLeKJv0q5fnF2obaf6Is",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1385hLNbrnbCJGokfH2ac2",
+                            "id": "1385hLNbrnbCJGokfH2ac2",
+                            "name": "Franz Liszt",
+                            "type": "artist",
+                            "uri": "spotify:artist:1385hLNbrnbCJGokfH2ac2"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1Z6QKxH36L3ff4yhBD3r1W"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1Z6QKxH36L3ff4yhBD3r1W",
+                            "id": "1Z6QKxH36L3ff4yhBD3r1W",
+                            "name": "Lise de la Salle",
+                            "type": "artist",
+                            "uri": "spotify:artist:1Z6QKxH36L3ff4yhBD3r1W"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/12TLeKJv0q5fnF2obaf6Is"
+                    },
+                    "total_tracks": 9
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1385hLNbrnbCJGokfH2ac2",
+                        "id": "1385hLNbrnbCJGokfH2ac2",
+                        "name": "Franz Liszt",
+                        "type": "artist",
+                        "uri": "spotify:artist:1385hLNbrnbCJGokfH2ac2"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1Z6QKxH36L3ff4yhBD3r1W"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1Z6QKxH36L3ff4yhBD3r1W",
+                        "id": "1Z6QKxH36L3ff4yhBD3r1W",
+                        "name": "Lise de la Salle",
+                        "type": "artist",
+                        "uri": "spotify:artist:1Z6QKxH36L3ff4yhBD3r1W"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 7,
+                "duration_ms": 357746,
+                "external_ids": {
+                    "isrc": "FRZ131101070"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3GecLjGMqzjmgkvy2v41Wf"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3GecLjGMqzjmgkvy2v41Wf",
+                "id": "3GecLjGMqzjmgkvy2v41Wf",
+                "name": "Ständchen in D Minor (After Schubert), S. 560",
+                "uri": "spotify:track:3GecLjGMqzjmgkvy2v41Wf",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "album",
+                    "href": "https://api.spotify.com/v1/albums/39Hh5k01di42nUCLn8Wxqu",
+                    "id": "39Hh5k01di42nUCLn8Wxqu",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273dc7e831d880de1c90d621379",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02dc7e831d880de1c90d621379",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851dc7e831d880de1c90d621379",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Liszt - My Piano Hero",
+                    "release_date": "2011-07-25",
+                    "release_date_precision": "day",
+                    "uri": "spotify:album:39Hh5k01di42nUCLn8Wxqu",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1385hLNbrnbCJGokfH2ac2",
+                            "id": "1385hLNbrnbCJGokfH2ac2",
+                            "name": "Franz Liszt",
+                            "type": "artist",
+                            "uri": "spotify:artist:1385hLNbrnbCJGokfH2ac2"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1YZhNFBxkEB5UKTgMDvot4",
+                            "id": "1YZhNFBxkEB5UKTgMDvot4",
+                            "name": "Lang Lang",
+                            "type": "artist",
+                            "uri": "spotify:artist:1YZhNFBxkEB5UKTgMDvot4"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
+                    },
+                    "total_tracks": 12
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1385hLNbrnbCJGokfH2ac2",
+                        "id": "1385hLNbrnbCJGokfH2ac2",
+                        "name": "Franz Liszt",
+                        "type": "artist",
+                        "uri": "spotify:artist:1385hLNbrnbCJGokfH2ac2"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1YZhNFBxkEB5UKTgMDvot4",
+                        "id": "1YZhNFBxkEB5UKTgMDvot4",
+                        "name": "Lang Lang",
+                        "type": "artist",
+                        "uri": "spotify:artist:1YZhNFBxkEB5UKTgMDvot4"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 5,
+                "duration_ms": 293146,
+                "external_ids": {
+                    "isrc": "USSM11103277"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2u9VGZmVz7Rm01SfDgzcfA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2u9VGZmVz7Rm01SfDgzcfA",
+                "id": "2u9VGZmVz7Rm01SfDgzcfA",
+                "name": "Liebestraum No. 3 in A-Flat Major, S. 541 / 3",
+                "uri": "spotify:track:2u9VGZmVz7Rm01SfDgzcfA",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "album",
+                    "href": "https://api.spotify.com/v1/albums/1XvleEtQzTPxjOXasEmNy6",
+                    "id": "1XvleEtQzTPxjOXasEmNy6",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27346da5a88168a07faa1abb3d2",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0246da5a88168a07faa1abb3d2",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485146da5a88168a07faa1abb3d2",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Debussy: Early and Late Piano Pieces",
+                    "release_date": "2022-10-07",
+                    "release_date_precision": "day",
+                    "uri": "spotify:album:1XvleEtQzTPxjOXasEmNy6",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1Uff91EOsvd99rtAupatMP",
+                            "id": "1Uff91EOsvd99rtAupatMP",
+                            "name": "Claude Debussy",
+                            "type": "artist",
+                            "uri": "spotify:artist:1Uff91EOsvd99rtAupatMP"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/23G1DjI5kQBbjOaLbUONgK"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/23G1DjI5kQBbjOaLbUONgK",
+                            "id": "23G1DjI5kQBbjOaLbUONgK",
+                            "name": "Steven Osborne",
+                            "type": "artist",
+                            "uri": "spotify:artist:23G1DjI5kQBbjOaLbUONgK"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1XvleEtQzTPxjOXasEmNy6"
+                    },
+                    "total_tracks": 22
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1Uff91EOsvd99rtAupatMP",
+                        "id": "1Uff91EOsvd99rtAupatMP",
+                        "name": "Claude Debussy",
+                        "type": "artist",
+                        "uri": "spotify:artist:1Uff91EOsvd99rtAupatMP"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/23G1DjI5kQBbjOaLbUONgK"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/23G1DjI5kQBbjOaLbUONgK",
+                        "id": "23G1DjI5kQBbjOaLbUONgK",
+                        "name": "Steven Osborne",
+                        "type": "artist",
+                        "uri": "spotify:artist:23G1DjI5kQBbjOaLbUONgK"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 3,
+                "duration_ms": 210213,
+                "external_ids": {
+                    "isrc": "GBAJY2239003"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3Zh035IdrO7lyMxq6kWkV0"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3Zh035IdrO7lyMxq6kWkV0",
+                "id": "3Zh035IdrO7lyMxq6kWkV0",
+                "name": "2 Arabesques, CD 74: No. 1, Andantino con moto",
+                "uri": "spotify:track:3Zh035IdrO7lyMxq6kWkV0",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "album",
+                    "href": "https://api.spotify.com/v1/albums/5lVqgXqdoIH3W1wUM2hzPx",
+                    "id": "5lVqgXqdoIH3W1wUM2hzPx",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e028e6adfe4421d106633abde7b",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048518e6adfe4421d106633abde7b",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Rachmaninov: Piano Concerto No.2",
+                    "release_date": "2012-01-01",
+                    "release_date_precision": "day",
+                    "uri": "spotify:album:5lVqgXqdoIH3W1wUM2hzPx",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0Kekt6CKSo0m5mivKcoH51",
+                            "id": "0Kekt6CKSo0m5mivKcoH51",
+                            "name": "Sergei Rachmaninoff",
+                            "type": "artist",
+                            "uri": "spotify:artist:0Kekt6CKSo0m5mivKcoH51"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0gOrXuu1vCBXe3pwTyb5Ca",
+                            "id": "0gOrXuu1vCBXe3pwTyb5Ca",
+                            "name": "Valentina Lisitsa",
+                            "type": "artist",
+                            "uri": "spotify:artist:0gOrXuu1vCBXe3pwTyb5Ca"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+                            "id": "5yxyJsFanEAuwSM5kOuZKc",
+                            "name": "London Symphony Orchestra",
+                            "type": "artist",
+                            "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4znpeZQkiPbcXtHlRbfTqF"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4znpeZQkiPbcXtHlRbfTqF",
+                            "id": "4znpeZQkiPbcXtHlRbfTqF",
+                            "name": "Michael Francis",
+                            "type": "artist",
+                            "uri": "spotify:artist:4znpeZQkiPbcXtHlRbfTqF"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5lVqgXqdoIH3W1wUM2hzPx"
+                    },
+                    "total_tracks": 3
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0Kekt6CKSo0m5mivKcoH51",
+                        "id": "0Kekt6CKSo0m5mivKcoH51",
+                        "name": "Sergei Rachmaninoff",
+                        "type": "artist",
+                        "uri": "spotify:artist:0Kekt6CKSo0m5mivKcoH51"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0gOrXuu1vCBXe3pwTyb5Ca",
+                        "id": "0gOrXuu1vCBXe3pwTyb5Ca",
+                        "name": "Valentina Lisitsa",
+                        "type": "artist",
+                        "uri": "spotify:artist:0gOrXuu1vCBXe3pwTyb5Ca"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+                        "id": "5yxyJsFanEAuwSM5kOuZKc",
+                        "name": "London Symphony Orchestra",
+                        "type": "artist",
+                        "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4znpeZQkiPbcXtHlRbfTqF"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4znpeZQkiPbcXtHlRbfTqF",
+                        "id": "4znpeZQkiPbcXtHlRbfTqF",
+                        "name": "Michael Francis",
+                        "type": "artist",
+                        "uri": "spotify:artist:4znpeZQkiPbcXtHlRbfTqF"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 2,
+                "duration_ms": 644272,
+                "external_ids": {
+                    "isrc": "GBF071202862"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4rrrn8OLrttq7r9RgNXalU"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4rrrn8OLrttq7r9RgNXalU",
+                "id": "4rrrn8OLrttq7r9RgNXalU",
+                "name": "Piano Concerto No. 2 in C Minor, Op. 18: 2. Adagio sostenuto",
+                "uri": "spotify:track:4rrrn8OLrttq7r9RgNXalU",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "album",
+                    "href": "https://api.spotify.com/v1/albums/0agchkBY40W1AA7J7ZmDrx",
+                    "id": "0agchkBY40W1AA7J7ZmDrx",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e8580303c8c1e369c643fcb7",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e8580303c8c1e369c643fcb7",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851e8580303c8c1e369c643fcb7",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Beethoven: Piano Sonatas, Vol. 3",
+                    "release_date": "2007-09-25",
+                    "release_date_precision": "day",
+                    "uri": "spotify:album:0agchkBY40W1AA7J7ZmDrx",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2wOqMjp9TyABvtHdOSOTUS",
+                            "id": "2wOqMjp9TyABvtHdOSOTUS",
+                            "name": "Ludwig van Beethoven",
+                            "type": "artist",
+                            "uri": "spotify:artist:2wOqMjp9TyABvtHdOSOTUS"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4LYCuV8d6rylb6zjv2k03l",
+                            "id": "4LYCuV8d6rylb6zjv2k03l",
+                            "name": "Paul Lewis",
+                            "type": "artist",
+                            "uri": "spotify:artist:4LYCuV8d6rylb6zjv2k03l"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0agchkBY40W1AA7J7ZmDrx"
+                    },
+                    "total_tracks": 32
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2wOqMjp9TyABvtHdOSOTUS",
+                        "id": "2wOqMjp9TyABvtHdOSOTUS",
+                        "name": "Ludwig van Beethoven",
+                        "type": "artist",
+                        "uri": "spotify:artist:2wOqMjp9TyABvtHdOSOTUS"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4LYCuV8d6rylb6zjv2k03l",
+                        "id": "4LYCuV8d6rylb6zjv2k03l",
+                        "name": "Paul Lewis",
+                        "type": "artist",
+                        "uri": "spotify:artist:4LYCuV8d6rylb6zjv2k03l"
+                    }
+                ],
+                "disc_number": 3,
+                "track_number": 9,
+                "duration_ms": 315426,
+                "external_ids": {
+                    "isrc": "FRZ140632090"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/40gRh2ZURv5tYBo8yB9Lu3"
+                },
+                "href": "https://api.spotify.com/v1/tracks/40gRh2ZURv5tYBo8yB9Lu3",
+                "id": "40gRh2ZURv5tYBo8yB9Lu3",
+                "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
+                "uri": "spotify:track:40gRh2ZURv5tYBo8yB9Lu3",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "album",
+                    "href": "https://api.spotify.com/v1/albums/3QXtNXmOyrOfZ2mWG4rw9v",
+                    "id": "3QXtNXmOyrOfZ2mWG4rw9v",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273734ead825eec82e0d13a7378",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02734ead825eec82e0d13a7378",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851734ead825eec82e0d13a7378",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Rimsky-Korsakov: Scheherezade",
+                    "release_date": "1999-02-01",
+                    "release_date_precision": "day",
+                    "uri": "spotify:album:3QXtNXmOyrOfZ2mWG4rw9v",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2kXJ68O899XvWOBdpzlXgs",
+                            "id": "2kXJ68O899XvWOBdpzlXgs",
+                            "name": "Nikolai Rimsky-Korsakov",
+                            "type": "artist",
+                            "uri": "spotify:artist:2kXJ68O899XvWOBdpzlXgs"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6JigcebfXFm692mmnDVDFO"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6JigcebfXFm692mmnDVDFO",
+                            "id": "6JigcebfXFm692mmnDVDFO",
+                            "name": "Alexander Lazarev",
+                            "type": "artist",
+                            "uri": "spotify:artist:6JigcebfXFm692mmnDVDFO"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3QXtNXmOyrOfZ2mWG4rw9v"
+                    },
+                    "total_tracks": 18
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2kXJ68O899XvWOBdpzlXgs",
+                        "id": "2kXJ68O899XvWOBdpzlXgs",
+                        "name": "Nikolai Rimsky-Korsakov",
+                        "type": "artist",
+                        "uri": "spotify:artist:2kXJ68O899XvWOBdpzlXgs"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0k5uXmuyASwY2Cwi5TQki4"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0k5uXmuyASwY2Cwi5TQki4",
+                        "id": "0k5uXmuyASwY2Cwi5TQki4",
+                        "name": "Lars Hjalmar Joakim",
+                        "type": "artist",
+                        "uri": "spotify:artist:0k5uXmuyASwY2Cwi5TQki4"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 4,
+                "duration_ms": 200360,
+                "external_ids": {
+                    "isrc": "GBARU9900154"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/04eShjKTWijeJJqGnhxpYK"
+                },
+                "href": "https://api.spotify.com/v1/tracks/04eShjKTWijeJJqGnhxpYK",
+                "id": "04eShjKTWijeJJqGnhxpYK",
+                "name": "Scheherazade: The Tale of the Kalendar Prince",
+                "uri": "spotify:track:04eShjKTWijeJJqGnhxpYK",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2026-05-24T11:15:19Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "album",
+                    "href": "https://api.spotify.com/v1/albums/4v0Xyz0LVToUsSTGdsvKSK",
+                    "id": "4v0Xyz0LVToUsSTGdsvKSK",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e024c43a2f36c0aec708ba024d5",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048514c43a2f36c0aec708ba024d5",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Holst: The Planets",
+                    "release_date": "1981-01-01",
+                    "release_date_precision": "day",
+                    "uri": "spotify:album:4v0Xyz0LVToUsSTGdsvKSK",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5B7uXBeLc2TkR5Jk23qKIZ",
+                            "id": "5B7uXBeLc2TkR5Jk23qKIZ",
+                            "name": "Gustav Holst",
+                            "type": "artist",
+                            "uri": "spotify:artist:5B7uXBeLc2TkR5Jk23qKIZ"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6uRJnvQ3f8whVnmeoecv5Z",
+                            "id": "6uRJnvQ3f8whVnmeoecv5Z",
+                            "name": "Berliner Philharmoniker",
+                            "type": "artist",
+                            "uri": "spotify:artist:6uRJnvQ3f8whVnmeoecv5Z"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5zCaQxjl110XTrm4LQ1CxY",
+                            "id": "5zCaQxjl110XTrm4LQ1CxY",
+                            "name": "Herbert von Karajan",
+                            "type": "artist",
+                            "uri": "spotify:artist:5zCaQxjl110XTrm4LQ1CxY"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4v0Xyz0LVToUsSTGdsvKSK"
+                    },
+                    "total_tracks": 7
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5B7uXBeLc2TkR5Jk23qKIZ",
+                        "id": "5B7uXBeLc2TkR5Jk23qKIZ",
+                        "name": "Gustav Holst",
+                        "type": "artist",
+                        "uri": "spotify:artist:5B7uXBeLc2TkR5Jk23qKIZ"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6uRJnvQ3f8whVnmeoecv5Z",
+                        "id": "6uRJnvQ3f8whVnmeoecv5Z",
+                        "name": "Berliner Philharmoniker",
+                        "type": "artist",
+                        "uri": "spotify:artist:6uRJnvQ3f8whVnmeoecv5Z"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5zCaQxjl110XTrm4LQ1CxY",
+                        "id": "5zCaQxjl110XTrm4LQ1CxY",
+                        "name": "Herbert von Karajan",
+                        "type": "artist",
+                        "uri": "spotify:artist:5zCaQxjl110XTrm4LQ1CxY"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 4,
+                "duration_ms": 456000,
+                "external_ids": {
+                    "isrc": "DEF058104552"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/59Id4KrBWiizuq53doxWtp"
+                },
+                "href": "https://api.spotify.com/v1/tracks/59Id4KrBWiizuq53doxWtp",
+                "id": "59Id4KrBWiizuq53doxWtp",
+                "name": "The Planets, Op. 32: IV. Jupiter, the Bringer of Jollity",
+                "uri": "spotify:track:59Id4KrBWiizuq53doxWtp",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 25
+}

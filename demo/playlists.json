@@ -1,0 +1,194 @@
+{
+    "href": "https://api.spotify.com/v1/me/playlists?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 4,
+    "items": [
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0MlN14l757HXhuQwIANj53"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0MlN14l757HXhuQwIANj53",
+            "id": "0MlN14l757HXhuQwIANj53",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0234bd045ff6189c2a861a1e30ab67616d00001e0299f253ebd86fb26803542dd9ab67616d00001e02bf4b533ee6e9634a6fcd8882ab67616d00001e02cbb64bd416bb225456100bbc",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0234bd045ff6189c2a861a1e30ab67616d00001e0299f253ebd86fb26803542dd9ab67616d00001e02bf4b533ee6e9634a6fcd8882ab67616d00001e02cbb64bd416bb225456100bbc",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0234bd045ff6189c2a861a1e30ab67616d00001e0299f253ebd86fb26803542dd9ab67616d00001e02bf4b533ee6e9634a6fcd8882ab67616d00001e02cbb64bd416bb225456100bbc",
+                    "width": 60
+                }
+            ],
+            "name": "Classical Essentials",
+            "owner": {
+                "display_name": "Example User",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAA/wN5k7lUBmzMfMWKIwz8gcOpdVI",
+            "items": {
+                "href": "https://api.spotify.com/v1/playlists/0MlN14l757HXhuQwIANj53/items",
+                "total": 25
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0MlN14l757HXhuQwIANj53"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3S6dPISFyzgvzERHnVXetp"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3S6dPISFyzgvzERHnVXetp",
+            "id": "3S6dPISFyzgvzERHnVXetp",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e0236cf58e3e7cf36a145b1da18ab67616d00001e0263facc42e4a35eb3aa182b59ab67616d00001e02e7e9b85cc1f021ec12130d80",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e0236cf58e3e7cf36a145b1da18ab67616d00001e0263facc42e4a35eb3aa182b59ab67616d00001e02e7e9b85cc1f021ec12130d80",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e0236cf58e3e7cf36a145b1da18ab67616d00001e0263facc42e4a35eb3aa182b59ab67616d00001e02e7e9b85cc1f021ec12130d80",
+                    "width": 60
+                }
+            ],
+            "name": "90s Pop",
+            "owner": {
+                "display_name": "Example User",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAAxaAcLkC1sJ7veXWV7LUbQlyV+u6",
+            "items": {
+                "href": "https://api.spotify.com/v1/playlists/3S6dPISFyzgvzERHnVXetp/items",
+                "total": 25
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3S6dPISFyzgvzERHnVXetp"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6PqoDVQ8RX7ov10GnEx3jO"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6PqoDVQ8RX7ov10GnEx3jO",
+            "id": "6PqoDVQ8RX7ov10GnEx3jO",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0243058ea096fa35ac33c43587ab67616d00001e024637341b9f507521afa9a778ab67616d00001e02c18c4e6c2978fb6cbdef85e2ab67616d00001e02c8a11e48c91a982d086afc69",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0243058ea096fa35ac33c43587ab67616d00001e024637341b9f507521afa9a778ab67616d00001e02c18c4e6c2978fb6cbdef85e2ab67616d00001e02c8a11e48c91a982d086afc69",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0243058ea096fa35ac33c43587ab67616d00001e024637341b9f507521afa9a778ab67616d00001e02c18c4e6c2978fb6cbdef85e2ab67616d00001e02c8a11e48c91a982d086afc69",
+                    "width": 60
+                }
+            ],
+            "name": "70s Rock",
+            "owner": {
+                "display_name": "Example User",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAA9kJ7Zw05vgTYfKDhWzqWYuvSHs0",
+            "items": {
+                "href": "https://api.spotify.com/v1/playlists/6PqoDVQ8RX7ov10GnEx3jO/items",
+                "total": 25
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6PqoDVQ8RX7ov10GnEx3jO"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5hvUH4Uq9FH5FHPn5OSkaO"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5hvUH4Uq9FH5FHPn5OSkaO",
+            "id": "5hvUH4Uq9FH5FHPn5OSkaO",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e02207dd27959f179f42b01ab18ab67616d00001e025c4d2b8429e7bbcda34e14deab67616d00001e02c6e0948bbb0681ff29cdbae8ab67616d00001e02f0246c408dccfca67fdf8d9a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e02207dd27959f179f42b01ab18ab67616d00001e025c4d2b8429e7bbcda34e14deab67616d00001e02c6e0948bbb0681ff29cdbae8ab67616d00001e02f0246c408dccfca67fdf8d9a",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e02207dd27959f179f42b01ab18ab67616d00001e025c4d2b8429e7bbcda34e14deab67616d00001e02c6e0948bbb0681ff29cdbae8ab67616d00001e02f0246c408dccfca67fdf8d9a",
+                    "width": 60
+                }
+            ],
+            "name": "2010s Hip Hop",
+            "owner": {
+                "display_name": "Example User",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/exampleuser"
+                },
+                "href": "https://api.spotify.com/v1/users/exampleuser",
+                "id": "exampleuser",
+                "type": "user",
+                "uri": "spotify:user:exampleuser"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAABPoYF528Ggd75AThBaVxzan0ZL/i",
+            "items": {
+                "href": "https://api.spotify.com/v1/playlists/5hvUH4Uq9FH5FHPn5OSkaO/items",
+                "total": 25
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5hvUH4Uq9FH5FHPn5OSkaO"
+        }
+    ]
+}
